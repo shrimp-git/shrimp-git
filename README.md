@@ -1,16 +1,57 @@
-## Hi there 👋
 
-<!--
-**shrimp-git/shrimp-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I am **shrimp**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+GitHub: https://github.com/shrimp-git
+
+Email: shrimp@morke.org
+
+Matrix: @shrimp:envs.net
+
+Dread: http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/u/shrimp
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+OE/J4CHXBOL7uHeiDQ==
+=KSwn
+
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
